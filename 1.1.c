@@ -1,6 +1,5 @@
-// chapter 1 -- arrays and strings 
-// 1.1
-// Is Unique (find if string has all unique chars)
+//Is Unique
+//Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
 
 #include <stdio.h>
 #include <stdlib.h>
